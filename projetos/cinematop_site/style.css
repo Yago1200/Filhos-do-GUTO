@@ -4,6 +4,9 @@ body {
     color: white;
     margin: 0;
     padding: 0;
+	background-image: url("https://www.revistacircuito.com/wp-content/uploads/2019/07/cinema.jpg");
+	background-size: 25%;
+)
 }
 
 header, footer {
@@ -26,7 +29,13 @@ nav a {
 
 main {
     padding: 20px;
+	background-color: DarkRed;
+	
+	
 }
+
+
+
 
 h1 {
     color: #ffcc00;
